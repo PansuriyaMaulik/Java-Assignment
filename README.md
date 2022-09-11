@@ -1,2 +1,2 @@
 # Java-Assignment
-Practice Basic Java Exercise for unserstand the concept.
+Practice Basic Java Exercise for understand the concept.
